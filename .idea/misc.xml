@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="https://fonts.googleapis.com/css?family=Asap" location="$PROJECT_DIR$" />
+    <resource url="https://meyerweb.com/eric/tools/css/reset/reset200802.css" location="$PROJECT_DIR$" />
+  </component>
+</project>
